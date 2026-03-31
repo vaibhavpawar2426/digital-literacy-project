@@ -1,0 +1,5 @@
+To create the Digital Literacy Awareness poster for students, I used Canva, a free online design tool popular for infographics and educational visuals.
+
+The design features a futuristic digital theme with a glowing brain icon at the center, symbolizing smart thinking in the online world, against a sleek black and blue gradient background. It divides into three key panels: "Digital Literacy" (covering evaluation, ethics, and data management), "Safe Internet" (highlighting phishing avoidance, password strength, and VPN/multi-factor authentication), and "Online Presence" (focusing on professional profiles, achievements, privacy checks, and digital portfolios). The tagline "Be Smart – Stay Safe – Build Your Digital Future" ties it together, encouraging responsible online behavior.
+
+One interesting challenge was balancing vibrant visuals with concise text to ensure readability on a single poster without overwhelming viewers—Canva's templates helped, but fine-tuning alignment for mobile viewing took several iterations. This project highlighted how visual hierarchy can make complex topics like cybersecurity engaging for students
